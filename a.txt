@@ -1,0 +1,1 @@
+ Request: {"jsonrpc": "2.0", "result": {"db_head_block": 4999999, "db_head_time": "2016-09-15 19:47:18", "db_head_age": 145384409}, "id": 0} processed in 0.003796s
